@@ -1,7 +1,12 @@
 {
-	"token": "Some nice token",
-	"owner": "464499620093886486",
-	"nodes": [
-		{ "host": "127.0.0.1", "port": 2333, "password": "youshallnotpass" }
-	]
+  "token": "cool discord api token",
+  "owner": "464499620093886486",
+  "key": "Cool youtube-api key",
+  "nodes": [
+    {
+      "host": "127.0.0.1",
+      "port": 2333,
+      "password": "youshallnotpass"
+    }
+  ]
 }
